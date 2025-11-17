@@ -1,39 +1,47 @@
-# Raushan Kumar Pal | Personal Portfolio
+# Raushan Kumar Pal | Personal HTML Portfolio Website
 
-This repository contains the personal HTML/CSS/JS portfolio website for Raushan Kumar Pal, a B.Tech CSE (Core) student at CGC University, Mohali. The portfolio highlights skills, education, projects, and contact information.
+Welcome to the personal portfolio website of **Raushan Kumar Pal**—built with HTML and CSS, showcasing academic background, skills, and contact information.
 
-## 🚀 Features
+## 🚀 Live Preview
+[Coming Soon!]
 
-- Clean, responsive layout
-- Sections: Home, About, University, Skills, Projects, Contact
-- Modern design with white/gray color palette
-- Smooth animations
-- Light/dark theme toggle
-- “Back to Top” and “Scroll Down” navigation arrows
-- **Skills Featured:** C Language, HTML, CSS
+## 👨‍💻 About Me
 
-## 📦 Setup
+- **Name:** Raushan Kumar Pal
+- **Education:** B.Tech CSE (Core) Student at CGC University, Mohali
+- **Interests:** Web development, painting, coding, and keeping up with tech trends.
+- **Currently Learning:** Full-stack development and prepping for tech internships.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/IRONLEGEND01/my-personal-HTML-portfolio-website.git
-   ```
-2. **Open `index.html` in your web browser.**
+## 🏫 My University
 
-No backend or build steps are required. All files are static.
+- **College:** [CGC University, Mohali](https://www.cgcuniversity.in)
+- **Accreditation:** NAAC Accredited
+- **Facilities:** Library (50,000+ books), labs, smart classrooms, hostel, canteen
+- **Courses Offered:** B.Tech CSE, MCA, MBA, Ph.D Programs
 
-## 🛠️ Customization
+## 🛠️ Skills
 
-- All styles and layout are handled in one HTML file (`index.html` under `<style>`).
-- To add or change skills, update the Skills section markup.
-- Update project cards to showcase new work.
-- Profile and university images are in the `/photo/` directory.
+- HTML
+- CSS
+- C Language
 
-## 📩 Contact
+## 📚 Projects
 
-- Email: [raushanpal04@gmail.com](mailto:raushanpal04@gmail.com)
-- Instagram: [@_roushannnn_](https://www.instagram.com/__roushannnn__)
+#### Personal Portfolio
+A clean and modern online portfolio highlighting skills, education, projects, and contact info.
+
+- **Tech used:** HTML, CSS, C Language
+- **Source:** [GitHub Repository](https://github.com/IRONLEGEND01/my-personal-HTML-portfolio-website)
+
+## 📞 Contact
+
+- **Email:** [raushanpal04@gmail.com](mailto:raushanpal04@gmail.com)
+- **Phone:** [+91 7061535521](tel:+917061535521)
+- **Instagram:** [@_roushannnn_](https://www.instagram.com/__roushannnn__)
+
+## ❤️ Thanks for Visiting!
+Made with HTML, CSS, and dedication.
 
 ---
 
-**Made with 💻 by Raushan Kumar Pal**
+© 2025 Raushan Kumar Pal
