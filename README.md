@@ -1,57 +1,39 @@
-# Raushan Kumar Pal — Portfolio Website
+# Raushan Kumar Pal | Personal Portfolio
 
-Welcome! This is my personal portfolio website built with HTML, CSS, and vanilla JavaScript. It showcases my profile, education, projects, and contact info in a beautiful and responsive single-page layout.
+This repository contains the personal HTML/CSS/JS portfolio website for Raushan Kumar Pal, a B.Tech CSE (Core) student at CGC University, Mohali. The portfolio highlights skills, education, projects, and contact information.
 
-## 🌟 Features
+## 🚀 Features
 
-- **Modern, responsive design** — Works on mobile and desktop.
-- **Dark mode toggle** — Easy on your eyes!
-- **Animated header and sections**
-- **Active navigation with smooth scrolling**
-- **Skills & Projects Cards** — Highlight your top abilities and work.
-- **Contact section** — Include email, phone, and social links.
-- **Back to top button** — Quick scroll up.
+- Clean, responsive layout
+- Sections: Home, About, University, Skills, Projects, Contact
+- Modern design with white/gray color palette
+- Smooth animations
+- Light/dark theme toggle
+- “Back to Top” and “Scroll Down” navigation arrows
+- **Skills Featured:** C Language, HTML, CSS
 
-## 🚀 Preview
+## 📦 Setup
 
-![Portfolio screenshot](photo/portfolio_screenshot.png)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/IRONLEGEND01/my-personal-HTML-portfolio-website.git
+   ```
+2. **Open `index.html` in your web browser.**
 
-## 🛠️ Tech Stack
+No backend or build steps are required. All files are static.
 
-- **HTML5**
-- **CSS3** (Flexbox, gradients, glass effect, mobile responsive)
-- **Vanilla JavaScript**
+## 🛠️ Customization
 
-## 📁 Running Locally
+- All styles and layout are handled in one HTML file (`index.html` under `<style>`).
+- To add or change skills, update the Skills section markup.
+- Update project cards to showcase new work.
+- Profile and university images are in the `/photo/` directory.
 
-Just open the `index.html` file in your browser!
+## 📩 Contact
 
-```sh
-git clone https://github.com/IRONLEGEND01/my-personal-HTML-portfolio-website.git
-cd my-personal-HTML-portfolio-website
-# Then open index.html in your web browser
-```
-
-## ✒️ Customization
-
-To update your profile picture, skills, projects, or contact:
-- Replace images in the `photo/` directory as needed.
-- Edit sections inside `index.html`.
-
-## ℹ️ About Me
-
-```text
-Raushan Kumar Pal
-B.Tech CSE (Core), CGC University, Mohali
-Web Developer • Problem Solver • Lifelong Learner
-```
-
-## 📬 Contact
-
-- **Email:** [raushanpal04@gmail.com](mailto:raushanpal04@gmail.com)
-- **Instagram:** [@__roushannnn__](https://www.instagram.com/__roushannnn__)
-- **Phone:** +91 7061535521
+- Email: [raushanpal04@gmail.com](mailto:raushanpal04@gmail.com)
+- Instagram: [@_roushannnn_](https://www.instagram.com/__roushannnn__)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+**Made with 💻 by Raushan Kumar Pal**
